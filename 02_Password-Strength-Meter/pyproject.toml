@@ -1,0 +1,17 @@
+[project]
+name = "password-strength-meter"
+version = "0.1.0"
+description = "A Password Strength Meter application built with Streamlit"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "streamlit>=1.42.0"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.ruff]
+line-length = 88
+target-version = "py38"
