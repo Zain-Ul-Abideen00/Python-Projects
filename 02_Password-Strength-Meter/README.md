@@ -6,6 +6,31 @@ A modern, feature-rich password strength analyzer and generator built with Pytho
 
 Try it out here: [Password Strength Meter](https://password-meter.streamlit.app/)
 
+## 📸 Demo Visuals
+
+### Screenshots
+
+<div align="center">
+  <img src="Demo Visuals/password-meter-streamlit-app-2025-03-05-21_16_36.png" alt="Password Strength Analysis" width="800"/>
+  <p><em>Password Strength Analysis with Interactive Gauge</em></p>
+</div>
+
+<div align="center">
+  <img src="Demo Visuals/password-meter-streamlit-app-2025-03-05-21_16_58.png" alt="Password Generator" width="800"/>
+  <p><em>Password Generator with Side Bar</em></p>
+</div>
+
+### Video Demo
+
+https://github.com/Zain-Ul-Abideen00/Password-Strength-Meter/raw/main/Demo%20Visuals/password-strength-meter.mkv
+
+Watch the full demonstration of the Password Strength Meter in action, including:
+- Real-time strength analysis
+- Password generation
+- Interactive feedback
+- Strength visualization
+- Mobile responsiveness
+
 ## 🌟 Features
 
 ### Password Analysis
