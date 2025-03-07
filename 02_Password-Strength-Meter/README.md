@@ -22,7 +22,7 @@ Try it out here: [Password Strength Meter](https://password-meter.streamlit.app/
 
 ### Video Demo
 
-https://github.com/Zain-Ul-Abideen00/Password-Strength-Meter/raw/main/Demo%20Visuals/password-strength-meter.mkv
+https://github.com/user-attachments/assets/e0c66498-ffc2-4cb4-afbb-66d81e5566eb
 
 Watch the full demonstration of the Password Strength Meter in action, including:
 - Real-time strength analysis
