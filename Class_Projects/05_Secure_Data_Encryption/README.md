@@ -2,6 +2,9 @@
 
 A Streamlit-based application for secure data storage and retrieval using advanced encryption techniques.
 
+## 🌐 Live Demo
+Access the live application here: [Secure Data Encryption System](https://zain-data-encrypt.streamlit.app/)
+
 ## Features
 
 - 🔐 **Secure Data Encryption**
