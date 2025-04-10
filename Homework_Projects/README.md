@@ -2,6 +2,10 @@
 
 This repository contains a collection of Python programming exercises and projects organized by concepts. Each folder focuses on specific Python programming concepts and contains related exercises.
 
+## Google Colab Notebook
+Access the interactive Google Colab notebook for interactive learning environment
+[Google Colab](https://colab.research.google.com/drive/1s2V-Yia12P-ZrfzVnle6YAAZi9d2whDD?usp=sharing)
+
 ## Project Structure
 
 - `00_intro_python/` - Introduction to Python basics
@@ -28,7 +32,6 @@ Each folder contains:
 1. Navigate to the specific concept folder you want to study
 2. Read the README.md file for concept overview
 3. Review the Python source files for specific examples
-4. Access the interactive learning environment through [Google Colab](https://colab.research.google.com/drive/1s2V-Yia12P-ZrfzVnle6YAAZi9d2whDD?usp=sharing)
 
 ## Contributing
 
